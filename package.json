@@ -1,0 +1,35 @@
+{
+  "name": "scheduled-messages-api",
+  "version": "1.0.0",
+  "description": "An API to handle the scheduled messages received",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ana-ac/scheduled-messages-api.git"
+  },
+  "keywords": [
+    "node",
+    "API",
+    "mongoose",
+    "mongodb",
+    "express",
+    "npm"
+  ],
+  "author": "Ana Arriaga Coll",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ana-ac/scheduled-messages-api/issues"
+  },
+  "homepage": "https://github.com/ana-ac/scheduled-messages-api#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.10"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
