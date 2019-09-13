@@ -1,0 +1,2 @@
+// requirements
+require('./lib/index')();
