@@ -18,7 +18,8 @@
     "mongoose",
     "mongodb",
     "express",
-    "npm"
+    "npm",
+    "eslint"
   ],
   "author": "Ana Arriaga Coll",
   "license": "MIT",

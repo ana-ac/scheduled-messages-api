@@ -1,0 +1,20 @@
+{
+    "data" : [
+        {
+            "alias" : "@elena",
+            "date" : "2019-09-15 20:00:00",
+            "message" : "holiiiii",
+            "scheduled" : true
+        },{
+            "alias" : "@juan",
+            "date" : "2019-09-16 20:00:00",
+            "message" : "adiossssss",
+            "scheduled" : false
+        },{
+            "alias" : "@antonio",
+            "date" : "2019-09-20 22:00:00",
+            "message" : "besisssssss",
+            "scheduled" : true
+        }
+    ]
+}
